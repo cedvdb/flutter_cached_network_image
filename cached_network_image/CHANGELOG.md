@@ -1,4 +1,4 @@
-## [3.4.1] - 2024-11-16
+## [3.4.2] - 2024-11-16
 
 * export [`ImageRenderMethodForWeb`] as it is part of the public API.
 

@@ -1,6 +1,6 @@
 ## [3.4.1] - 2024-11-16
 
-* export [`ImageRenderMethodForWeb`] as it was part of the public API.
+* export [`ImageRenderMethodForWeb`] as it is part of the public API.
 
 ## [3.4.1] - 2024-08-13
 
